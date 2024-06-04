@@ -27,18 +27,3 @@ Take care of each other, these are tough times.
 Contact:  
 [email](mailto:jeff@jbrr.dev)  
 [twitter (ugh)](https://twitter.com/jefbrr)
-
-```
-             _.-````'-,_
-   _,.,_ ,-'`           `'-.,_
- /)     (\                   '``-.
-((      ) )                      `\
- \)    (_/                        )\
-  |       /)           '    ,'    / \
-  `\    ^'            '     (    /  ))
-    |      _/\ ,     /    ,,`\   (  "`
-     \Y,   |  \  \  | ````| / \_ \
-       `)_/    \  \  )    ( >  ( >
-      /         \( \(     |/   |/
-    yo         /_(/_(    /_(  /_(
-```
